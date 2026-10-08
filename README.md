@@ -46,6 +46,6 @@ Escolha uma prática ou dado de teste relevante e explique com suas próprias pa
 
 Repositório: [`<URL_DO_REPOSITÓRIO>`](https://github.com/kaue19santos/exploring-test)
 
-URL TestMiner: `<URL_NO_TESTMINER>`
+URL TestMiner: [`<URL_NO_TESTMINER>`](https://andrehora.github.io/testminer/#angular/angular)
 
 Explicação: `<SUA_EXPLICAÇÃO>`
