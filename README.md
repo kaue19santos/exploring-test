@@ -44,7 +44,7 @@ Escolha uma prática ou dado de teste relevante e explique com suas próprias pa
 
 ## Respostas
 
-Repositório: `<URL_DO_REPOSITÓRIO>`
+Repositório: [`<URL_DO_REPOSITÓRIO>`](https://github.com/kaue19santos/exploring-test)
 
 URL TestMiner: `<URL_NO_TESTMINER>`
 
