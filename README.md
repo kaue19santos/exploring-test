@@ -48,4 +48,4 @@ Repositório: [`<URL_DO_REPOSITÓRIO>`](https://github.com/kaue19santos/explorin
 
 URL TestMiner: [`<URL_NO_TESTMINER>`](https://andrehora.github.io/testminer/#angular/angular)
 
-Explicação: `<SUA_EXPLICAÇÃO>`
+Explicação: Uma prática de teste identificada no projeto Angular é a utilização de testes automatizados com diferentes valores de entrada para verificar o comportamento de um validador de campos obrigatórios. No arquivo presente no caminho "packages/forms/signals/test/node/api/validators/required.spec.ts", os testes verificam se o validador _required_ identifica corretamente valores considerados vazios, como uma string vazia, e aceita valores como o número zero. Também são testados comportamentos como a remoção de erros após o preenchimento do campo e a utilização de mensagens de erro personalizadas. Essa prática é importante porque permite verificar diferentes cenários de utilização, incluindo casos-limite, e identificar possíveis falhas na validação dos dados. Assim, evita-se que alterações no código prejudiquem funcionalidades existentes.
